@@ -1,0 +1,16 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+
+    "strict": true,
+    "skipLibCheck": true,
+
+    "esModuleInterop": true,
+    "moduleResolution": "bundler"
+  },
+
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
