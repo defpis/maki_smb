@@ -1,4 +1,7 @@
 .vscode/
 node_modules/
-package-lock.json
+dist/
 storage/
+
+package-lock.json
+pnpm-lock.yaml

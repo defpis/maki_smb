@@ -8,7 +8,10 @@
     "skipLibCheck": true,
 
     "esModuleInterop": true,
-    "moduleResolution": "bundler"
+    "moduleResolution": "bundler",
+
+    "outDir": "dist",
+    "declaration": true
   },
 
   "include": ["src"],
